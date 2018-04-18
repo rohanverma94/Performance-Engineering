@@ -1,2 +1,2 @@
 # PerfomanceEngineering
-Whitepaper for Performance Engineering, designed by Rohan Verma
+Whitepaper for Performance Engineering, written by Rohan Verma, Systems Programmer | InfoSec
